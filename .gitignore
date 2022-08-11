@@ -1,0 +1,8 @@
+# check_points for Jupyter Notebook
+.ipynb_checkpoints
+
+# project datasets
+datasets/
+
+# various 
+misc/
