@@ -8,7 +8,7 @@ ___
 
 Pandas, SQLAlchemy
 ___
-## Описание проекта
+### Описание проекта
 
 [**Схема БД**](https://github.com/dmitry-filimonov/Practicum-Data-Analysis/blob/main/books_database_analysis/db_structure.png)
 
