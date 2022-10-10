@@ -10,7 +10,7 @@ ___
 ___
 ### Инструменты:
 
-BeautifulSoup, Mystem, Pandas, Seaborn, Matplotlib, Scipy
+BeautifulSoup, Mystem, Pandas, Seaborn, Matplotlib, Scipy, Scikit-learn
 
 ___
 ### Описание проекта
