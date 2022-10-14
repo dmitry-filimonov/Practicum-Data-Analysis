@@ -2,7 +2,7 @@
 
 [**Презентация**](https://drive.google.com/file/d/1vJPrW7-pQB0m3hinhiY1FGg4ctPdVbwB/view?usp=sharing)
 
-[**Дашборд**](https://public.tableau.com/views/2_16645710291430/Ordersdashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[**Дашборд**](https://public.tableau.com/app/profile/dmitry.filimonov/viz/E-shopassortment/E-shopAssortment)
 ___
 ### Задачи проекта:
 
