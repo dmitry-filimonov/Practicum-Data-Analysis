@@ -57,7 +57,7 @@ ___
 *Python (matplotlib, pandas, plotly, seaborn, scipy)*
 ___
 
-### [Исследование надежности заемщиков](https://github.com/dmitry-filimonov/Practicum-Data-Analysis/tree/main/realibility_score_analysis)
+### [Исследование надежности заемщиков](https://github.com/dmitry-filimonov/Practicum-Data-Analysis/tree/main/reliability_score_analysis)
 
 Предобработка данных для системы кредитного скоринга
 
