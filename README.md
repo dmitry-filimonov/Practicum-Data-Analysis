@@ -61,7 +61,7 @@ ___
 
 Предобработка данных для системы кредитного скоринга
 
-*Python (matplotlib, pandas, seaborn)*
+*Python (pandas)*
 ____
 ### [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/dmitry-filimonov/Practicum-Data-Analysis/tree/main/st_petersburg_real_estate_analysis)
 
