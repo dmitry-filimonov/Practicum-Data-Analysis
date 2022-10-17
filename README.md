@@ -55,6 +55,13 @@ ___
 Оценка результатов A/B-тестирования, проверка корректности проведения теста
 
 *Python (matplotlib, pandas, plotly, seaborn, scipy)*
+___
+
+### [Исследование надежности заемщиков](https://github.com/dmitry-filimonov/Practicum-Data-Analysis/tree/main/realibility_score_analysis)
+
+Предобработка данных для системы кредитного скоринга
+
+*Python (matplotlib, pandas, seaborn)*
 ____
 ### [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/dmitry-filimonov/Practicum-Data-Analysis/tree/main/st_petersburg_real_estate_analysis)
 
