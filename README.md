@@ -10,7 +10,7 @@ ____
 ____
 ### [Анализ товарного ассортимента интернет-магазина](https://github.com/dmitry-filimonov/Practicum-Data-Analysis/tree/main/eshop_assortment_analysis)
 
-Web-mining, предобработка, ABC-анализ, кластеризация, проверка гипотез
+Web-mining, предобработка, ABC-анализ, кластеризация, проверка гипотез, дашборд в Tableau Public
 
 *Python (beautifulsoup, pymystem3, pandas, seaborn, scipy, sklearn)*
 ____
